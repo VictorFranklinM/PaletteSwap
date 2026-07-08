@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d173nl1hmsgx6"
-path="res://.godot/imported/magico_rabisco.png-c375faf6a8cb70c9548bd637a98e41df.ctex"
+uid="uid://bq2b42kygigr0"
+path="res://.godot/imported/magico_rabisco(v3)_spriteIdle.png-7856f96b1002dc71535678aa684ce97d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/magico_rabisco.png"
-dest_files=["res://.godot/imported/magico_rabisco.png-c375faf6a8cb70c9548bd637a98e41df.ctex"]
+source_file="res://assets/magico_rabisco(v3)_spriteIdle.png"
+dest_files=["res://.godot/imported/magico_rabisco(v3)_spriteIdle.png-7856f96b1002dc71535678aa684ce97d.ctex"]
 
 [params]
 
