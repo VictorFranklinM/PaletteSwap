@@ -6,6 +6,8 @@ var palettes = [
 	preload("res://assets/palettes/paleta_magico.png"),
 	preload("res://assets/palettes/paleta_magico_blue.png"),
 	preload("res://assets/palettes/paleta_magico_red.png"),
+	preload("res://assets/palettes/paleta_magico_reverse.png"),
+	preload("res://assets/palettes/paleta_magico_orange.png")
 ]
 
 var current_palette := 0
